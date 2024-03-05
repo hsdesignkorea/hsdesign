@@ -183,15 +183,27 @@ body {
 /* Banner Typography */
 
 #banner h1 {
-     /* 240206 */
-    /* font-family: 'Open Sans', sans-serif, Arial, Helvetica; */
-    font-family: 'NanumSquare', sans-serif;
     /* 240206 */
-    font-size:62px;
-    /* line-height:60px; */
-    line-height:73px;
-    font-weight:800;
-    color:#111;
+   /* font-family: 'Open Sans', sans-serif, Arial, Helvetica; */
+   font-family: 'NanumSquare', sans-serif;
+   /* 240206 */
+   /* font-size:62px; */
+   /* line-height:60px; */
+   /* line-height:73px; */
+   /* font-weight:800; */
+   /* color:#111; */
+/* 240305 */
+   font-size: 72px;
+   background: -webkit-linear-gradient(0deg, rgb(255, 0, 123) 15%, rgb(164, 25, 190) 65%, rgb(123, 22, 218) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   /* font-family: 'Open Sans', sans-serif, Arial, Helvetica; */
+   font-family: 'NanumSquare', sans-serif;
+   font-size: 62px;
+   /* line-height: 60px; */
+   line-height: 73px;
+   font-weight: 800;
+   color: #111;
 }
 
 #banner h2 {
